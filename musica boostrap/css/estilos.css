@@ -1,0 +1,36 @@
+header{
+    background-color: #EA80FC;
+}
+
+.logo-text{
+    font-size: 14px;
+    color:grey;
+}
+
+.logo-imagen{
+    margin-left: 20px;
+}
+
+.redes-icons{
+    width: 5%;
+}
+
+nav{
+    background-color:#E040FB;
+}
+
+.margenes{
+    margin-left: 30px;
+}
+
+section{
+    background-color: #F3E5F5;
+}
+
+.busqueda{
+    background-color: yellow
+}
+
+footer{
+    background-color: grey
+}
