@@ -1,5 +1,8 @@
-div{
-    border: 0.2px gray solid;
+html{
+    background-image: url(https://wallpaperscraft.com/image/couple_walk_top_travel_64555_1920x1080.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 .margenes{
@@ -11,3 +14,12 @@ div{
     margin: 10px;
 }
 
+@media(max-width:720px){
+    .author{
+        margin: 5px;
+    }
+}
+
+.margen2{
+    margin: 5px;
+}
