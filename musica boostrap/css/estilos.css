@@ -21,6 +21,7 @@ nav{
 
 .margenes{
     margin-left: 30px;
+    margin-top: 10px;
 }
 
 section{
@@ -28,9 +29,15 @@ section{
 }
 
 .busqueda{
-    background-color: yellow
+    background-color: 	#a6e3cf;
+}
+.margenes2{
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 footer{
-    background-color: grey
+    background-color: grey;
+    margin-top: 10px;  
+    color: white; 
 }

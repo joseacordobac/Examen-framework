@@ -1,0 +1,43 @@
+body{
+    background-image: url(https://wallpaperscraft.com/image/fruit_vegetables_fish_garnish_lemon_food_74301_1920x1080.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.colorfondocompleto{
+    background-color: rgba(255, 0, 0, 0.267);
+}
+
+.margenimagen{
+    margin: 2px;
+    width: 90%;
+}
+
+.izquierda{
+    background-color: rgba(130, 219, 219, 0.322);
+}
+
+.fondoplato{
+    background-color: rgba(226, 141, 43, 0.548); 
+}
+
+img{
+    margin: 5px;
+}
+
+.resetas{
+    background-color: rgba(208, 226, 43, 0.644);
+    margin: 5px;
+}
+
+.otramargen{
+    margin:5px;
+}
+
+.bordes{
+    border: 1px gray solid;
+    background-color: rgba(255, 255, 255, 0.13);
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
